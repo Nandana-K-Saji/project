@@ -1,0 +1,12 @@
+.flex-item {
+    border: 2px solid grey;
+    background-color: rgb(225, 224, 224);
+    padding: 10px;
+    margin: 5px;
+    min-width: 100px;
+    text-align: center;
+    flex: 1 1 auto;
+}
+.heading h5 {
+    color: rgb(14, 14, 183);
+}
